@@ -1,6 +1,6 @@
 Portfolio Project
 
-<b>Introduction</b?
+Introduction
 
 Welcome to my portfolio project! This project showcases my skills and projects as a developer. 
 It is designed to highlight my work, including the technologies I use, the projects I've completed, and my professional experience.
