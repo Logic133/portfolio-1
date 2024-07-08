@@ -5,14 +5,16 @@ Introduction
 Welcome to my portfolio project! This project showcases my skills and projects as a developer. 
 It is designed to highlight my work, including the technologies I use, the projects I've completed, and my professional experience.
 
-Features
-Introduction and bio section
-Detailed project showcases with descriptions and links
-Skills and technologies section
-Responsive design for optimal viewing on all devices
-Contact form for direct communication
+Features :
 
-Technologies
+1) Introduction and bio section
+2) Detailed project showcases with descriptions and links
+3) Skills and technologies section
+4) Responsive design for optimal viewing on all devices
+5) Contact form for direct communication
+
+Technologies :
+
 Frontend: React, HTML, CSS, JavaScript
 Backend: Node.js, Express
 Database: MongoDB
